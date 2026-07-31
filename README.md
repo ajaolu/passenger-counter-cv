@@ -21,7 +21,7 @@ A computer vision pipeline engineered to detect, track, and count passengers nav
 ### Step-by-Step Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/passenger-counting-cv.git](https://github.com/YOUR_GITHUB_USERNAME/passenger-counting-cv.git)
+   git clone [https://github.com/ajaolu/passenger-counting-cv.git](https://github.com/ajaolu/passenger-counting-cv.git)
    cd passenger-counting-cv
 ## 📺 Video Demo
 [Watch the system in action here:](https://www.facebook.com/share/r/1E7MKDBH1d/)
